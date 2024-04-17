@@ -1,2 +1,2 @@
 # ConvertSrt
-Convert Srt to html
+Convert Srt to ttml
